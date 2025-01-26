@@ -31,12 +31,12 @@ pip install xgboost
 pip install scrapy                   
 pip install requests                 
 pip install nltk                     
-pip install pygame
-pip install gensim					
-pip install spacy					
-pip install Theano
-pip install bokeh					
-pip install torch
+pip install pygame  
+pip install gensim		
+pip install spacy			
+pip install Theano   
+pip install bokeh			
+pip install torch  
 pip install transformers
 
 
