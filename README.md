@@ -13,29 +13,30 @@ jupyter lab
 
 5. Install the below library to work on the DataScience using the pip package under the cmd command.
 
-pip install matplotlib			
-pip install beautifulsoup4 lxml 
-pip install keras               
-pip install numpy               
-pip install opencv-python       
-pip install pandas              
-pip install plotly              
-pip install torch               
-pip install scikit-learn        
-pip install scipy               
-pip install seaborn             
-pip install statsmodels         
-pip install tclab               
-pip install tensorflow          
-pip install xgboost             
-pip install scrapy              
-pip install requests            
-pip install nltk                
+pip install matplotlib
+pip install beautifulsoup4 lxml
+pip install keras 
+pip install numpy
+pip install opencv-python
+pip install pandas    
+pip install plotly
+pip install torch
+pip install scikit-learn
+pip install scipy       
+pip install seaborn      
+pip install statsmodels   
+pip install tclab
+pip install tensorflow
+pip install xgboost
+pip install scrapy
+pip install requests
+pip install nltk
 pip install pygame
-pip install gensim				
-pip install spacy				
+pip install gensim
+pip install spacy
 pip install Theano
-pip install bokeh				
+pip install bokeh
 pip install torch
 pip install transformers
+
 
