@@ -13,11 +13,11 @@ jupyter lab
 
 5. Install the below library to work on the DataScience using the pip package under the cmd command.
 
-pip install matplotlib				
-pip install beautifulsoup4 lxml      
-pip install keras                    
-pip install numpy                    
-pip install opencv-python            
+          pip install matplotlib				
+          pip install beautifulsoup4 lxml      
+          pip install keras                    
+          pip install numpy                    
+          pip install opencv-python            
 pip install pandas                   
 pip install plotly                   
 pip install torch                    
