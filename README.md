@@ -12,6 +12,7 @@ C:\Users\Jawed\AppData\Roaming\Python\Python39\Scripts
 jupyter lab
 
 5. Install the below library to work on the DataScience using the pip package under the cmd command.
+
 pip install matplotlib			
 pip install beautifulsoup4 lxml 
 pip install keras               
